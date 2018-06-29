@@ -1,4 +1,5 @@
 
+
 package test;
 
 public class hai {
@@ -6,5 +7,6 @@ public class hai {
 		//hhhhhfre
 		//hdheu
 		System.out.println("hahahah");
+		System.out.println("abc");
 	}
 }
